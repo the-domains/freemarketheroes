@@ -1,6 +1,6 @@
 name: FreeMarketHeroes
 favicon: null
-layout_spectrum: 0.028791277203708887
+layout_spectrum: 1
 typography_spectrum: 0.06444701761938632
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.481163389980793
+  brandStrength: 0.5
   lightness: 0.17050705756992102
   saturation: 0.7118965249974281
   rhythmicContrast: 0.2955525170546025
