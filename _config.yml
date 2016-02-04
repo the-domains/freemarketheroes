@@ -2,12 +2,13 @@ name: FreeMarketHeroes
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.06444701761938632
+title: Free Market Heroes Podcast
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: Free Market Heroes Entrepreneur Politics Podcast
   facebook: null
   twitter: null
 opengraph:
