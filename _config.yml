@@ -1,6 +1,6 @@
 name: FreeMarketHeroes
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.74268
 title: Free Market Heroes Podcast
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d71e3d'
     - '#57a4da'
     - '#c98024'
-  brandStrength: 0.875
+  brandStrength: 0.5
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.5
